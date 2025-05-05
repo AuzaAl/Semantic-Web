@@ -3,7 +3,7 @@
 ## Tugas Dicoding
 
 **Proyek Web Semantic**  
-Tugas ini telah diselesaikan oleh *XXXXX* sebagai bagian dari kursus *Belajar Dasar Pemrograman Web* di Dicoding. Proyek ini menunjukkan kemampuan dalam membangun aplikasi web yang **semantik**, **responsif**, dan **interaktif** menggunakan **HTML**, **CSS**, dan **JavaScript**, serta menerapkan praktik terbaik dalam pengelolaan struktur dan gaya halaman.
+Tugas ini telah diselesaikan oleh *Auza Alfarizi Ramadhan* sebagai bagian dari kursus *Belajar Dasar Pemrograman Web* di Dicoding. Proyek ini menunjukkan kemampuan dalam membangun aplikasi web yang **semantik**, **responsif**, dan **interaktif** menggunakan **HTML**, **CSS**, dan **JavaScript**, serta menerapkan praktik terbaik dalam pengelolaan struktur dan gaya halaman.
 
 ## Deskripsi
 
